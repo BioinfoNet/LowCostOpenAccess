@@ -5,4 +5,8 @@ We will search for high impact journals that publish at low cost or have a waive
 If time allows we will add a list of predatory journals to avoid. 
 # Team members
 Karega Pauline(Team Leader)
-
+Fridah Glelis Kariuki
+Sebastian Musundi
+Jennifer Mutisya
+Olivier Dayou
+Kennedy Wanjau Mwangi
