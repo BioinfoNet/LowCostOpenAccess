@@ -15,7 +15,7 @@ If time allows we will add a list of predatory journals to avoid.
 6. Kennedy Wanjau Mwangi
 
 ### Open access table
-Journal  waiver policy  Application process  Submission process
+Journal : waiver policy : Application process  : Submission process
 
 
 
