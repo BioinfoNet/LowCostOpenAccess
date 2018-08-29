@@ -14,5 +14,10 @@ If time allows we will add a list of predatory journals to avoid.
 5. Olivier Dayou
 6. Kennedy Wanjau Mwangi
 
+### Open access table
+Journal  waiver policy  Application process  Submission process
+
+
+
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
