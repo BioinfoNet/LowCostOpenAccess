@@ -16,7 +16,12 @@ If time allows we will add a list of predatory journals to avoid.
 
 ### Open access table
 Journal : waiver policy : Application process  : Submission process
-
+ 
+ 
+| Journal  | Publisher  | Waiver (Yes/No) | Subsidy (%) | Scope |What else?|
+| :------------ |:---------------:| :-------------:|:------------:|:---------------:| -------------:|
+| Journal  | Publisher  | Waiver (Yes/No) | Subsidy (%) | Scope |Else|
+| Journal  | Publisher  | Waiver (Yes/No) | Subsidy (%) | Scope |Else|
 
 
 ## License
