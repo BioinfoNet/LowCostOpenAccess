@@ -26,5 +26,7 @@ Journal : waiver policy : Application process  : Submission process
 ### Additions
 Predatory journals- Link to guide of predatory journals.
 
+Etherpad link https://public.etherpad-mozilla.org/p/2018-openaccess
+
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
