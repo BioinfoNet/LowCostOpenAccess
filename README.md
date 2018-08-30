@@ -23,6 +23,8 @@ Journal : waiver policy : Application process  : Submission process
 | Journal  | Publisher  | Waiver (Yes/No) | Subsidy (%) | Scope |Else|
 | Journal  | Publisher  | Waiver (Yes/No) | Subsidy (%) | Scope |Else|
 
+### Additions
+Predatory journals- Link to guide of predatory journals.
 
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
