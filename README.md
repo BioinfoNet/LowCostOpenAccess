@@ -35,6 +35,7 @@ From our twitter and GitHub discussions the following suggestions were made whic
 4. Springer Nature
 5. Wiley
 6. PLOS
+7. AfricArXiv
 
 
 ## License
