@@ -28,5 +28,14 @@ Predatory journals- Link to guide of predatory journals.
 
 Etherpad link https://public.etherpad-mozilla.org/p/2018-openaccess
 
+From our twitter and GitHub discussions the following suggestions were made which can be our starting points.
+1. Directory of Open Access Journals
+2. African JOL
+3. Hindawi
+4. Springer Nature
+5. Wiley
+6. PLOS
+
+
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
