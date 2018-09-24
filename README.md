@@ -59,8 +59,6 @@ From our twitter and GitHub discussions, the following suggestions were made whi
 6. PLOS
 7. AfricArXiv
 
-<table>
-<tr><th>journal</th><th>scope</th></tr>
- <tr><td>Springer</td><td>All life science journals</td></tr>
+
 License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
