@@ -1,29 +1,19 @@
 # Publishing open access at low cost: what are our options?
+In most Kenyan Institutions, students are required to publish at least one paper at MSc level. The common question is: where do we publish at low cost? To help students and early career scientists take decisions on where to publish, we create this open resource that can be used to guide students and early career researchers in Africa to publish open access, and at subsidized or waived article processing charge.
 
-Summary:
+We tackled this question during an [OpenScienceKE hackathon](https://github.com/BioinfoNet/OpenScienceKEHackathon) held on 30th and 31st August 2018. The contributors to this project can be found [here](https://github.com/BioinfoNet/Openaccess-Options#team-members). See [this section](https://github.com/BioinfoNet/Openaccess-Options#how-to-contribute) and the [data entry guidelines](https://github.com/BioinfoNet/Openaccess-Options/blob/master/Data-Entry-Guidelines.md) if you'd like to contribute. 
+
+Here is a summary of what we found during the hackathon:
 - Most Open Access publishers offer waivers or subsidies to authors from developing countries. 
 - For some, the waiver policy is linked to the corresponding author or the source of research funds. 
-- Lower Income countries authors receive full waivers, while Lower middle-income countries receive 50% subsidy. 
+- Lower Income countries authors receive full waivers, while Lower middle-income countries receive a 50% subsidy. 
 - Journals also consider waiver requests on a case by case basis
 - Kenya is part of developing countries
 - Kenya is a Lower-Middle Income country
 - No special waiver to students identified so far, but may be part of the case by case waivers
 
-## Agenda
-We will search for high impact journals that publish at low cost or have a waiver for Kenya and the other East African countries and put them in a table that can be easily retrieved. The table will also contain instructions to follow to get the waiver. 
-If time allows we will add a list of predatory journals to avoid. 
-
-## Team members
-1. Karega Pauline(Team Leader)
-2. Fridah Glelis Kariuki
-3. Sebastian Musundi
-4. Jennifer Mutisya
-5. Olivier Dayou
-6. Kennedy Wanjau Mwangi
-
 ### Open access table
 
- 
 Publisher Name|Journals|Scope|Waiver Criteria|Other Open Science Practices
 ---|---|---|---|---
 [Hindawi](https://www.hindawi.com/)|<ul><li>Advances in Bioinformatics</li><li>The Scientific World Journal</li><li>BioMed Research International</li><li>Genetics Research International</li><li>Scientifica</li></ul>[see full list](https://www.hindawi.com/journals/) |<ul><li>Bioinformatics</li><li>Computational Biology</li><li>Genomics</li><li>Genetics</li><li>Infectious Diseases</li><li>Molecular Biology</li></ul>|Waiver eligible for:<ul><li>Low-income economies</li><li>Lower-middle-income economies</li></ul> Mode of eligibility:<ul><li>Automatically eligible</li></ul> Amount of waiver:<ul><li>Not stated</li></ul> Application process:<ul><li>Request a waiver before submitting manuscript</li><li>Send an email to waivers@hindawi.com</li></ul> [see waiver details](https://www.hindawi.com/waiver/)|None Found
@@ -51,19 +41,23 @@ Publisher Name|Journals|Sources
 [World Academy of Science, Engineering and Technology (WASET)](https://waset.org/)||<ul><li>[see discussion](https://www.researchgate.net/post/What_is_your_opinion_about_the_conferences_conducted_by_world_academy_of_Science_Engineering_and_TechnologyWASET) on ResearchGate </li><li>The Guardian newspaper article source listed on OMICS</li></ul>
 
 ### Additions
-Predatory journals- Link to guide of predatory journals.
 
-Etherpad link https://public.etherpad-mozilla.org/p/2018-openaccess
+## How to Contribute
+Thank you for your interest in the project. Kindly read the [data entry guidelines](https://github.com/BioinfoNet/Openaccess-Options/blob/master/Data-Entry-Guidelines.md) for creating this resource. Here are some of the ways you can contribute to this resource:
+- Review the resource table
+- Suggest some of the publishers who provide waivers (Open an issue or send us a pull request)
+- Provide suggestions on formatting
+- Share this resource
 
-From our twitter and GitHub discussions, the following suggestions were made which can be our starting points.
-1. Directory of Open Access Journals
-2. African JOL
-3. Hindawi
-4. Springer Nature
-5. Wiley
-6. PLOS
-7. AfricArXiv
+Etherpad link for collaborative note taking: https://public.etherpad-mozilla.org/p/2018-openaccess
 
+## Team members
+1. Karega Pauline(Team Leader)
+2. Fridah Glelis Kariuki
+3. Sebastian Musundi
+4. Jennifer Mutisya
+5. Olivier Dayou
+6. Kennedy Wanjau Mwangi
 
-License
+## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
