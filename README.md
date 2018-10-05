@@ -12,7 +12,7 @@ Here is a summary of what we found during the hackathon:
 - Kenya is a Lower-Middle Income country
 - No special waiver to students identified so far, but may be part of the case by case waivers
 
-### Open access table
+## Low-cost open access table
 
 Publisher Name|Journals|Scope|Waiver Criteria|Other Open Science Practices
 ---|---|---|---|---
@@ -26,21 +26,20 @@ Publisher Name|Journals|Scope|Waiver Criteria|Other Open Science Practices
 [Oxford University Press (OUP)](https://academic.oup.com/journals)|<ul><li>Bioscience Horizons</li><li>Biology Methods and Protocols</li><li>Nucleic Acids Research</li><li>Database</li><li>DNA Research</li><li>Genome Biology and Evolution</li><li>Journal of Insect Science</li></ul> [see more journals](https://academic.oup.com/journals/pages/open_access)|<ul><li>Bioinformatics</li><li>Computational Biology</li><li>Genomics</li><li>Genetics</li><li>Molecular biology</li></ul>|Waiver eligible for:<ul><li>Authors from developing countries</li><li>Authors in financial hardship</li></ul>Mode of eligibility:<ul><li>Automatic eligibilty for authors from developing countries</li><li>Waiver granted at the discretion of the editor of the journal for authors in financial hardship</li></ul>Amount of waiver:<ul><li>Full waiver for Free access countries</li><li>50% reduction on open access APCs for authors in reduced access countries and regions </li></ul>[see developing countries list](https://academic.oup.com/journals/pages/librarians/developing_countries/participating_countries) Application process:<ul><li>Apply for waiver during manuscript submission</li></ul> [see more details on waivers](https://academic.oup.com/journals/pages/open_access/charges)|None Found
 [Frontiers](https://www.frontiersin.org/)|<ul><li>Frontiers in Genetics</li><li>Frontiers in Plant Science</li><li>Frontiers in Bioengineering and Biotechnology</li></ul> [see more journals](https://www.frontiersin.org/about/journals-a-z)|<ul><li>Bioinformatics</li><li>Computational Biology</li><li>Genetics</li><li>Genomics</li><li>Systems Biology</li></ul>|Waiver eligible for:<ul><li>Authors without the means to pay the APCs</li></ul> Mode of eligibility:<ul><li>Case-by-case basis at the discretion of the publisher</li></ul>Amount of waiver:<ul><li>Full waiver</li><li>Partial waiver</li></ul>Application process:<ul><li>Apply for waiver before, or immediately after, the manuscript is submitted</li></ul> [see more details](https://www.frontiersin.org/about/publishing-fees#waivers)| None Found
 
-### Preprints
+## Preprints
 
 Preprint Name|Description
 ---|---
 [bioRxiv](https://www.biorxiv.org/)|A free online archive and distribution service for unpublished preprints in the life sciences. Authors use the bioRxiv service to make their manuscripts available as “preprints” before peer review, allowing other scientists to see, discuss, and comment on the findings immediately.
 [AfricArXiv](https://osf.io/preprints/africarxiv)|This is specially designed for African scientists to share their research outputs.
 
-### Predatory Journals
+## Predatory Journals
 
 Publisher Name|Journals|Sources
 ---|---|---
 [Omics International](https://www.omicsonline.org)||<ul><li>[Article about OMICS international](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5723186/)</li><li>[Newspaper article](https://www.theguardian.com/technology/2018/aug/10/predatory-publishers-the-journals-who-churn-out-fake-science) on The Guardian about predatory publishers</li></ul>
 [World Academy of Science, Engineering and Technology (WASET)](https://waset.org/)||<ul><li>[see discussion](https://www.researchgate.net/post/What_is_your_opinion_about_the_conferences_conducted_by_world_academy_of_Science_Engineering_and_TechnologyWASET) on ResearchGate </li><li>The Guardian newspaper article source listed on OMICS</li></ul>
 
-### Additions
 
 ## How to Contribute
 Thank you for your interest in the project. Kindly read the [data entry guidelines](https://github.com/BioinfoNet/Openaccess-Options/blob/master/Data-Entry-Guidelines.md) for creating this resource. Here are some of the ways you can contribute to this resource:
