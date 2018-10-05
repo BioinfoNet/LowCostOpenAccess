@@ -1,4 +1,6 @@
-## Guidelines for entering data in the Open Access table
+## Guidelines for entering data in the Low-Cost Open Access Table
+
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
 The open access table is a resource where people can get information on journals that publish at zero or no cost. Following the [open science workshop](https://bioinfonet.github.io/OpenScienceKE/) held on August 9-10, 2018, this resource is part of the hackathon that was held later and will direct people to journals that facilitate open science. In particular, this resource revolves around the fields of life sciences especially those in which Bioinformatics is applied, as the scope of the workshop theme revolved around Open Science in Bioinformatics.
 
