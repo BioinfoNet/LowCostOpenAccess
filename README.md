@@ -50,13 +50,16 @@ Thank you for your interest in the project. Kindly read the [data entry guidelin
 
 Etherpad link for collaborative note taking: https://public.etherpad-mozilla.org/p/2018-openaccess
 
-## Team members
-1. Karega Pauline(Team Leader)
-2. Fridah Glelis Kariuki
-3. Sebastian Musundi
-4. Jennifer Mutisya
-5. Olivier Dayou
-6. Kennedy Wanjau Mwangi
+## Contributors
+
+1. Caleb Kipkurui (Project Leader)
+2. Karega Pauline(Team Leader)
+3. Kennedy Wanjau Mwangi
+4. Fridah Glelis Kariuki
+5. Sebastian Musundi
+6. Jennifer Mutisya
+7. Cavin Mgawe
+
 
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
