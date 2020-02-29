@@ -31,7 +31,8 @@ Publisher Name|Journals|Scope|Waiver Criteria|Other Open Science Practices
 Preprint Name|Description
 ---|---
 [bioRxiv](https://www.biorxiv.org/)|A free online archive and distribution service for unpublished preprints in the life sciences. Authors use the bioRxiv service to make their manuscripts available as “preprints” before peer review, allowing other scientists to see, discuss, and comment on the findings immediately.
-[AfricArXiv](https://osf.io/preprints/africarxiv)|This is specially designed for African scientists to share their research outputs.
+[AfricArXiv](https://osf.io/preprints/africarxiv)|This is specially designed for African scientists to share their research outputs. They accept the following; Case studies,research articles, review papers, data and methods papers,project proposals,technical notes,dataset description papers and negative results. A manuscript can be submitted prior to or post publication. N/B AfricArXiv is not a journal and does not evaluate the scientific quality of a manuscript in all details.
+[medRxiv](https://www.medrxiv.org/)|medRxiv accepts preprints of articles covering all aspects of research in the health sciences. Research articles, systematic reviews and meta-analyses, clinical research design protocols and data articles may be posted.A manuscript may be submitted prior to, or concurrently with, submission to a journal but will not be posted if it has already been accepted for publication, published, or posted elsewhere.
 
 ## Predatory Journals
 
