@@ -33,17 +33,18 @@ Preprint Name|Description
 [bioRxiv](https://www.biorxiv.org/)|A free online archive and distribution service for unpublished preprints in the life sciences. Authors use the bioRxiv service to make their manuscripts available as “preprints” before peer review, allowing other scientists to see, discuss, and comment on the findings immediately.
 [AfricArXiv](https://osf.io/preprints/africarxiv)|This is specially designed for African scientists to share their research outputs. They accept the following; Case studies,research articles, review papers, data and methods papers,project proposals,technical notes,dataset description papers and negative results. A manuscript can be submitted prior to or post publication. N/B AfricArXiv is not a journal and does not evaluate the scientific quality of a manuscript in all details.
 [medRxiv](https://www.medrxiv.org/)|medRxiv accepts preprints of articles covering all aspects of research in the health sciences. Research articles, systematic reviews and meta-analyses, clinical research design protocols and data articles may be posted.A manuscript may be submitted prior to, or concurrently with, submission to a journal but will not be posted if it has already been accepted for publication, published, or posted elsewhere.
-[PeerJPreprints](https://peerj.com/preprints-search/)| An archive of previously published preprints. Focuses on high-quality peer review and fast publishing. Good to note that Computational Biology is their scope. 
+[PeerJPreprints](https://peerj.com/preprints-search/)| An archive of previously published preprints. Focuses on high-quality peer review and fast publishing. Good to note that Computational Biology is their scope.
 [BioHackrXiv](https://biohackrxiv.org/discover)|Provides a wide scope of scientific preprint submission. Subjects include, Microbilogy, Bioinformatics, Biology,Biochemistry, Nutition, Neuroscience etc.
 [Preprints.org](https://www.preprints.org/)|Available for preprints in all STEM (Science, Technology, Engineering, and Mathematics) fields. Of particular intrest to us include Biochemistry, Genetics, Molecular Biology among others. Other than life science the server has a wide scope os subjects in Material science,Medicine and Pharmacology, Mathematics and Computer Science,Physical Science, Social Science, Arts and Humanity, Engineering, Biology, Behavioral Science, Chemistry and Earth science.
 [arXiv](https://arxiv.org/)| an archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Important to note that arXiv only accept submission of manuscripts from registered authors. A new user may be required to find endorsements from authors who have published a certain number of papers withing the subject area.
 
 ## Predatory Journals
 
-Publisher Name|Journals|Sources
----|---|---
-[Omics International](https://www.omicsonline.org)||<ul><li>[Article about OMICS international](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5723186/)</li><li>[Newspaper article](https://www.theguardian.com/technology/2018/aug/10/predatory-publishers-the-journals-who-churn-out-fake-science) on The Guardian about predatory publishers</li></ul>
-[World Academy of Science, Engineering and Technology (WASET)](https://waset.org/)||<ul><li>[see discussion](https://www.researchgate.net/post/What_is_your_opinion_about_the_conferences_conducted_by_world_academy_of_Science_Engineering_and_TechnologyWASET) on ResearchGate </li><li>The Guardian newspaper article source listed on OMICS</li></ul>
+Leading scholars and publishers from ten countries have recently defined predatory journals and publishers as "entities that prioritize self-interest at the expense of scholarship and are characterized by false or misleading information, deviation from best editorial and publication practices, a lack of transparency, and/or the use of aggressive and indiscriminate solicitation practices"(Grudniewicz et al., 2019). Predatory journals take advantage of the pay-to-publish model used by legitimate open access journals. Therefore, one prominent feature of predatory journals is their readiness to publish any article submitted as long as the author is willing to pay the article processing charges. In this regard, the predatory journals will aggressively solicit the authors to publish in these journals. Predatory journals may also provide false information such as fake impact factors, incorrect addresses, misrepresentations of the editorial board, false claims of indexing or membership of associations and misleading claims about the rigor of peer review. By readily allowing publication of articles without rigorous vetting, predatory publishing undermines legitimate and trustworthy scholarly publishing. To aid authors in identifying predatory journals, lists of possible predatory journals have been created and are regularly updated. These include:
+
+- [List of Predatory Journals](https://predatoryjournals.com/journals/) (Adapted from Beall’s list)
+- [Cabell's Blacklist](https://www2.cabells.com/about-blacklist) (Accessed on a subscription basis)
+- [Beall's List](https://beallslist.net/)
 
 
 ## How to Contribute
@@ -64,6 +65,10 @@ Etherpad link for collaborative note taking: https://public.etherpad-mozilla.org
 5. Sebastian Musundi
 6. Jennifer Mutisya
 7. Cavin Mgawe
+
+## Reference
+Grudniewicz, A., Moher, D., Cobey, K. D., Bryson, G. L., Cukier, S., Allen, K., Ardern, C., Balcom, L., Barros, T., Berger, M., Ciro, J. B., Cugusi, L., Donaldson, M. R., Egger, M., Graham, I. D., Hodgkinson, M., Khan, K. M., Mabizela, M., Manca, A., … Lalu, M. M. (2019). Predatory journals: No definition, no defence. _Nature_, 576(7786), 210–212. https://doi.org/10.1038/d41586-019-03759-y
+
 
 
 ## License
