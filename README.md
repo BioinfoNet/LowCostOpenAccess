@@ -49,11 +49,12 @@ Leading scholars and publishers from ten countries have recently defined predato
 
 
 ## How to Contribute
-Thank you for your interest in the project. Kindly read the [data entry guidelines](https://github.com/BioinfoNet/Openaccess-Options/blob/master/Data-Entry-Guidelines.md) for creating this resource. Here are some of the ways you can contribute to this resource:
+Thank you for your interest in the project. Kindly read the [CONTRIBUTING:data entry guidelines](https://github.com/BioinfoNet/LowCostOpenAccess/blob/master/CONTRIBUTING.md) for creating this resource. Here are some of the ways you can contribute to this resource:
 - Review the resource table
 - Suggest some of the publishers who provide waivers (Open an issue or send us a pull request)
 - Provide suggestions on formatting
 - Share this resource
+
 
 Etherpad link for collaborative note taking: https://public.etherpad-mozilla.org/p/2018-openaccess
 
